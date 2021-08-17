@@ -1,4 +1,4 @@
-<img src = "https://raw.githubusercontent.com/YtaloAzeredo/ytaloazeredo/main/img/pikachu.png" width = "325px" align = "right">
+<img src = "https://raw.githubusercontent.com/YtaloAzeredo/ytaloazeredo/main/img/pikachu.png" width = "250px" align = "right">
 
 ### Hi there, I'm Ytalo Azeredo 💡
 
