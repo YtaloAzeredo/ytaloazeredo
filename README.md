@@ -1,5 +1,16 @@
-### Hi there 👋
+<img src = "https://raw.githubusercontent.com/YtaloAzeredo/ytaloazeredo/main/img/pikachu.png" width = "325px" align = "right">
 
+### Hi there, I'm Ytalo Azeredo 💡
+
+:man_student: **Studying:** Information Systems at [IFF](https://portal1.iff.edu.br/);
+
+🌱 **Learning:** Python, JavaScript;
+
+:school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+
+⚡ **Fun fact:** I love the yellow color;
+
+##
  <div>
   <a href="https://linktr.ee/ytaloazeredo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ytaloazeredo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
