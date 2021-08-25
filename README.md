@@ -4,7 +4,7 @@
 
 :man_student: **Studying:** Information Systems at [IFF](https://portal1.iff.edu.br/);
 
-🌱 **Learning:** Python, JavaScript;
+🌱 **Learning:**  JavaScript, Python;
 
 :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
 
