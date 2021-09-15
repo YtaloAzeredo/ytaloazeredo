@@ -6,7 +6,7 @@
 
 🌱 **Learning:**  JavaScript;
 
-:school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+:school_satchel: **Main Tools:** Visual Studio Code, GitHub and Docker;
 
 ⚡ **Fun fact:** I love the yellow color;
 
