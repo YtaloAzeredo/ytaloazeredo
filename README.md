@@ -26,7 +26,6 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="right" alt="Mander" height="100" width="140" src="https://raw.githubusercontent.com/YtaloAzeredo/ytaloazeredo/main/img/pac.gif">
 </div>
   
 ##
