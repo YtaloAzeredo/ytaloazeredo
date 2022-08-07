@@ -4,9 +4,9 @@
 
 :man_student: **Studying:** Information Systems at [IFF](https://portal1.iff.edu.br/);
 
-🌱 **Learning:**  JavaScript;
+🌱 **Learning:**  TypeScript;
 
-:school_satchel: **Main Tools:** Visual Studio Code, GitHub and Docker;
+:school_satchel: **Main Tools:** Visual Studio Code, Insomnia, GitHub and Docker;
 
 ⚡ **Fun fact:** I love the yellow color;
 
