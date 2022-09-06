@@ -8,8 +8,6 @@
 
 :school_satchel: **Main Tools:** Visual Studio Code, Insomnia, GitHub and Docker;
 
-⚡ **Fun fact:** I love the yellow color;
-
 ##
  <div>
   <a href="https://linktr.ee/ytaloazeredo">
