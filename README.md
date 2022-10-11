@@ -2,7 +2,7 @@
 
 :man_student: **Studying:** Information Systems at [IFF](https://portal1.iff.edu.br/);
 
-🌱 **Learning:**  TypeScript;
+🌱 **Learning:**  TypeScript, Design Patterns, Clean Architecture;
 
 :school_satchel: **Main Tools:** Visual Studio Code, Insomnia, GitHub and Docker;
 
