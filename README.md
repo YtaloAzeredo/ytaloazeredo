@@ -1,13 +1,3 @@
-### Hi there, I'm Ytalo Azeredo 💡
-
-:man_student: **Studying:** Information Systems at [IFF](https://portal1.iff.edu.br/);
-
-🌱 **Learning:**  TypeScript, Design Patterns, Clean Architecture;
-
-:school_satchel: **Main Tools:** Visual Studio Code, Insomnia, GitHub and Docker;
-
-##
-
 <!--
  <div>
   <a href="https://linktr.ee/ytaloazeredo">
