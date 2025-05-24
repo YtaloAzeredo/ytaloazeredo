@@ -13,5 +13,5 @@
 <div style="font-size: 16px;">
   📧 <strong>Email:</strong> ytaloazeredo@gmail.com <br>
   💼 <strong>LinkedIn:</strong> https://www.linkedin.com/in/ytalo-azeredo/ <br>
-  📱 <strong>WhatsApp:</strong> +55 22 99835-8737
+  📱  <strong>WhatsApp:</strong> +55 22 99835-8737
 </div>
