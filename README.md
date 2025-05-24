@@ -9,6 +9,12 @@
 </div>
   
 ##
+
+<div style="font-size: 16px;">
+  📧 <strong>Email:</strong> ytaloazeredo@gmail.com <br>
+  💼 <strong>LinkedIn:</strong> https://www.linkedin.com/in/ytalo-azeredo/ <br>
+  📱 <strong>WhatsApp:</strong> +55 22 99835-8737
+</div>
   
  <div> 
   <a href = "mailto:ytaloazeredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
