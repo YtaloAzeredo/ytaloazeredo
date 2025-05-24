@@ -15,9 +15,3 @@
   💼 <strong>LinkedIn:</strong> https://www.linkedin.com/in/ytalo-azeredo/ <br>
   📱 <strong>WhatsApp:</strong> +55 22 99835-8737
 </div>
-  
- <div> 
-  <a href = "mailto:ytaloazeredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ytalo-azeredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wa.me/5522998358737?text=Olá!+Tudo+bem?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
- </div>
